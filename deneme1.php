@@ -7,8 +7,9 @@
 <body>
 <?php
 
-print('Merhaba Gursu!');
+print('Merhaba Gursu!<br>');
 
 ?>
+Saat: <?=date('H:i:s')?>
 </body>
 </html>
