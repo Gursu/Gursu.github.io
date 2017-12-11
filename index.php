@@ -5,6 +5,10 @@
 </script>
 </head>
 <body>
-MG!
+<?php
+
+print('MG!');
+
+?>
 </body>
 </html>
