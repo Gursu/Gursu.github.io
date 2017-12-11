@@ -7,7 +7,7 @@
 <body>
 <?php
 
-print('MG!');
+print('Merhaba Gursu!');
 
 ?>
 </body>
