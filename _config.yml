@@ -6,15 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Elektrik Tesisleri Ders, Proje ve Araştırma Sayfaları
+title: Elektrik Güç Sistemleri Ders, Proje ve Araştırma Sayfaları
 email: gtekdemir@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Elektrik güç sistemlerinin bilgisayar destekli analizi, güç akışı, kısa devre arızası, güç sistemlerinde koruma, enerji üretimi, iletimi, dağıtımı, yüksek gerilim ve aydınlatma tekniği gibi konularda akademik ve eğitsel içeriklere sahip sayfalardan oluşmaktadır.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: GursuTekdemir
 github_username:  gursu
 
 # Build settings
