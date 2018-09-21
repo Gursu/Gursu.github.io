@@ -17,4 +17,4 @@ github_username:  Gursu
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: minima
